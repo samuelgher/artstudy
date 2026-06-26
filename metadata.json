@@ -1,0 +1,6 @@
+{
+  "name": "ArtStudy Workspace",
+  "description": "An interactive gesture drawing and anatomy study workspace with adjustable timers, rule-of-thirds grid, drawing canvas, student portfolio, and AI-powered anatomy critiques.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
